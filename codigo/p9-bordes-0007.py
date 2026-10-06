@@ -1,4 +1,4 @@
-# Ejemplo 2 Deteccion de contornos Leon
+# Ejemplo 2 Deteccion de contornos Leon NL = 1
 # Alexandro Aguilar NC = 0007
 import cv2
 
